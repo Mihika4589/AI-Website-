@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(79, 238, 124);
+}
+h3{
+    color:rgb(30, 53, 53);
+}
+nav{
+    background-color: rgb(195, 68, 140);
+    
+    text-align: center;
+}
+li{
+    display: inline;
+}
+a{
+    padding:40px;
+    color:rgb(0, 0, 0);
+}

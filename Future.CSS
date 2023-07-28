@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(126, 28, 218);
+}
+h2{
+  color:white;
+}
+nav{
+    background-color:black;
+    
+    text-align: center;
+}
+li{
+    display: inline;
+}
+a{
+    padding:40px;
+    color:whitesmoke;
+}
